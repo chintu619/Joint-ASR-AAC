@@ -22,23 +22,23 @@ An exemplar output from our jointly trained models as compared to independently 
 <tbody>
 <tr>
 <td markdown="span">ASR-only</td>
-<td markdown="span">n. e. scale now that's a break job</td>
+<td markdown="span"><span style="color:blue;">n. e. scale now that's a break job</span></td>
 </tr>
 <tr>
 <td markdown="span">AAC-only</td>
-<td markdown="span">a train approaches and blows a horn</td>
+<td markdown="span"><span style="color:magenta;">a train approaches and blows a horn</span></td>
 </tr>
 <tr>
 <td markdown="span">Cat-AAC-ASR<br>(concatenating AAC & ASR outputs)</td>
-<td markdown="span">nice giel now that's a break job<br>a gun fires and a person whistles</td>
+<td markdown="span"><span style="color:blue;">nice giel now that's a break job</span><br><span style="color:magenta;">a gun fires and a person whistles</span></td>
 </tr>
 <tr>
 <td markdown="span">Dual-decoder</td>
-<td markdown="span">nise feel now that's a break job<br>gunshots fire and male voices with gunshots and blowing while a duck quacks in the background</td>
+<td markdown="span"><span style="color:blue;">nise feel now that's a break job</span><br><span style="color:magenta;">gunshots fire and male voices with gunshots and blowing while a duck quacks in the background</span></td>
 </tr>
 <tr>
 <td markdown="span">Human Generated</td>
-<td markdown="span">nice kill, now that's a great shot<br>a man speaking and gunshots ringing out</td>
+<td markdown="span"><span style="color:blue;">nice kill, now that's a great shot</span><br><span style="color:magenta;">a man speaking and gunshots ringing out</span></td>
 </tr>
 </tbody>
 </table>
@@ -53,10 +53,10 @@ Therefore we create a multi-task dataset (see below instructions) by mixing the 
   ```
 
 ### Clone the repository
-	```bash
-	git clone https://github.com/chintu619/Joint-ASR-AAC.git
-	cd Joint-ASR-AAC
-	```
+  ```bash
+  git clone https://github.com/chintu619/Joint-ASR-AAC.git
+  cd Joint-ASR-AAC
+  ```
 
 ### Download AudioCaps data
   * Downloading YouTube audio using [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) and `ffmpeg` package
