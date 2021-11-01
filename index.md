@@ -5,7 +5,7 @@ The goal of AAC is to generate natural language descriptions of contents in audi
 An exemplar output from our jointly trained models as compared to independently trained ASR and AAC models is shown below.
 
 <p align="left">
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8hSarhQXJbg?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8hSarhQXJbg?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <table>
