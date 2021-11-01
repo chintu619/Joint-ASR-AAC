@@ -4,7 +4,7 @@ For better model interpretability and holistic understanding of real-world audio
 The goal of AAC is to generate natural language descriptions of contents in audio samples, while ASR extracts a transcript of speech content.
 An exemplar output from our jointly trained models as compared to independently trained ASR and AAC models is shown below.
 
-<p align="left">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8hSarhQXJbg?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
