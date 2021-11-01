@@ -7,7 +7,7 @@
 
 ### Clone repository
   ```bash
-  https://github.com/chintu619/Joint-ASR-AAC.git
+  git clone https://github.com/chintu619/Joint-ASR-AAC.git
   ```
 
 ### Download AudioCaps data
